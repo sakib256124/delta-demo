@@ -2,10 +2,10 @@
 This is demo for Git &amp; Github class.
 
 # Topic 
- Git
- Github
+ Git<br>
+ Github<br>
  Terminal
 
 # Student
- Detta Student
+ Delta Student<br>
  Bangladeh Student
