@@ -3,9 +3,9 @@ This is demo for Git &amp; Github class.
 
 # Topic 
 Git
-Github
-Terminal
+*Github
+*Terminal
 
 #Student
-Detta Student
-Bangladeh Student
+*Detta Student
+*Bangladeh Student
